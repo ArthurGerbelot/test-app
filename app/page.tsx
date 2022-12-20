@@ -1,8 +1,10 @@
 import Image from 'next/image'
-import { Inter } from '@next/font/google'
 import styles from './page.module.css'
 
-const inter = Inter({ subsets: ['latin'] })
+// import { Inter } from '@next/font/google'
+// const inter = Inter({ subsets: ['latin'] })
+
+import inter from '@test/common';
 
 export default function Home() {
   return (

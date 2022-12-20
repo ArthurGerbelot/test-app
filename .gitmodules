@@ -1,0 +1,3 @@
+[submodule "modules/Test-Common"]
+	path = modules/Test-Common
+	url = https://github.com/arthurgerbelot/Test-Common.git
